@@ -102,7 +102,7 @@ nav{
     border-radius: 8px;
     color: white;
 }
-footer{
+.footer{
     background-color: #343a40;
     display: flex;
     justify-content: center;
